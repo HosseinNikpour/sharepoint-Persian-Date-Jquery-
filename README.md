@@ -5,14 +5,18 @@ sharepoint-Persian-Date-Jquery-
 
 برای استفاده ز ابتدا باید فایل های زیر در مستر پیج لود شوند
 
-<script type="text/javascript" src="../_layouts/15/folderName/jquery-1.10.2.js"></script>
 
-<script type="text/javascript" src="../_layouts/15/folderName/PersianCal.js"></script>
+jquery-1.10.2.js 
+
+PersianCal.js
+
+bootstrapDatePicker/bootstrap-datepicker.css
+
+bootstrapDatePicker/bootstrap-datepicker.js
+
+bootstrapDatePicker/bootstrap-datepicker.fa.js
 
 
-<link type="text/css" href="../_layouts/15/bootstrapDatePicker/bootstrap-datepicker.css" rel="stylesheet" />
-<script type="text/javascript" src="../_layouts/15/bootstrapDatePicker/bootstrap-datepicker.js"></script>
-<script type="text/javascript" src="../_layouts/15/bootstrapDatePicker/bootstrap-datepicker.fa.js"></script>
 
 سپس تابع تبدیل تاریخ را فراخوانی کنید
 
